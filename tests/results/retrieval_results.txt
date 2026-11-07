@@ -1,0 +1,599 @@
+
+Question: What's the difference between sautéing and pan-frying?
+Results found: 5
+
+Result 1
+Score: 0.58919877
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 16.0
+Text: Pan Frying
+Pan frying differs from sauté in the amount of fat used in the pan. Food items that are pan-fried are immersed, but not submerged, in hot fat. 50% of the item is cooked in the fat. Pan frying is a dry cooking method because no water or stock is used. Heat is transferred through the direct conduction of the bottom of the pan, as well as the convection of the hot fat around the food item, which is usually breaded or sealed in some manner to retain moisture.
+--------------------------------------------------
+
+Result 2
+Score: 0.57473147
+Source: professional_cooking_06.md
+Chunk: 40.0
+Text: Pan-Fry
+To pan-fry means to cook in a moderate amount of fat in a pan over moderate heat. Pan-frying is similar to sautéing except more fat is used, the heat is lower, and the cooking time is longer. The method is used for larger pieces of food, such as chops and chicken pieces, and the items are not tossed by flipping the pan, as they often are in sautéing.
+--------------------------------------------------
+
+Result 3
+Score: 0.5572785
+Source: 30 Cooking Methods Every Home Cook Should Know Transcript.md
+Chunk: 12.0
+Text: 30 Cooking Methods Every Home Cook Should Know
+Pan-frying
+Pan frying often uses slightly less heat than sautéing and a little bit more oil. And it's used to cook larger things. So, larger pieces of vegetable, larger pieces of fish, larger pieces of meat as opposed to like ground meat. Why would you pan fry? Well, I think pan frying is a perfect use for when you're cooking crispy skin fish. You're going to get great flat contact with the heat element and the the skin of the fish. And you're pretty much going to cook that piece of fish till it's almost 80% all the way through. and just flipping it at the last minute to make sure that the flesh is cooked itself. So, why would you pan fry versus why would you sear? Well, searing is more about getting good color on whatever you're cooking. It doesn't necessarily need to be cooked all the way through. Pan frying, you're cooking whatever you're cooking from start to finish in the pan and also getting that good color on at least one side, if not all sides. Deep frying.
+--------------------------------------------------
+
+Result 4
+Score: 0.5186433
+Source: professional_cooking_06.md
+Chunk: 39.0
+Text: Sauté
+To sauté means to cook quickly in a small amount of fat. High heat is required, and the procedure is most often done in a broad, flat pan called a sauté pan (p. 55) or sauteuse.
+--------------------------------------------------
+
+Result 5
+Score: 0.49819562
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 15.0
+Text: Procedure:
+2. Food items for sauté should be as DRY as possible before cooking. The combination of fat and water will create splattering, and the food will be steamed instead of sautéed. 3. Control the heat. The sauté pan should be hot enough to create conduction of heat into the item being cooked, but not so hot that the surface burns before the middle cooks. 4. Consider cutting larger items into smaller pieces for the intense heat of sauté so they cook more quickly and evenly. 5. Do not crowd foods in the sauté pan. Cook in batches if necessary. 6. Use pans without a non-stick surface to promote the development of fond, the basis to the flavor in your pan sauce. 7. Always match deglazing liquids to the flavor profile of the dish you're creating. 8. Stir-Fry is the Asian cousin of French sauté, using the same method in a Wok.
+--------------------------------------------------
+
+Question: How do I keep chicken from drying out when I cook it?
+Results found: 5
+
+Result 1
+Score: 0.4856395
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 12.0
+Text: Tips:
+1. Don't trust the temperature your oven tells you. Get an oven thermometer to be assured. 2. Use a pan appropriate for the item being cooked. Pans that are too small will affect the amount of heat reflected during the cooking process. 3. Basting is a myth! DO NOT open the oven door during the cooking process. "Syringing" drippings back to the top of the meat is useless when letting 100 degrees of temperature escape from the oven each time the door is opened. 4. Items that are roasted of baked will dry out considerably. Consider having a sauce ready. 5. Always let roasted or baked items rest after removing from the oven to allow for carryover cooking.
+--------------------------------------------------
+
+Result 2
+Score: 0.47542143
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: My Favorite Simple Roast Chicken
+Ingredients: ['One 2- to 3-pound farm-raised chicken', 'Kosher salt and freshly ground black pepper', '2 teaspoons minced thyme (optional)', 'Unsalted butter', 'Dijon mustard']
+Instructions: Preheat the oven to 450°F. Rinse the chicken, then dry it very well with paper towels, inside and out. The less it steams, the drier the heat, the better.
+Salt and pepper the cavity, then truss the bird. Trussing is not difficult, and if you roast chicken often, it's a good technique to feel comfortable with. When you truss a bird, the wings and legs stay close to the body; the ends of the drumsticks cover the top of the breast and keep it from drying out. Trussing helps the chicken to cook evenly, and it also makes for a more beautiful roasted bird.
+Now, salt the chicken—I like to rain the salt over the bird so that it has a nice uniform coating that will result in a crisp, salty, flavorful skin (about 1 tablespoon). When it's cooked, you should still be able to make out the salt baked onto the crisp skin. Season to taste with pepper.
+Place the chicken in a sauté pan or roasting pan and, when the oven is up to temperature, put the chicken in the oven. I leave it alone—I don't baste it, I don't add butter; you can if you wish, but I feel this creates steam, which I don't want. Roast it until it's done, 50 to 60 minutes. Remove it from the oven and add the thyme, if using, to the pan. Baste the chicken with the juices and thyme and let it rest for 15 minutes on a cutting board.
+Remove the twine. Separate the middle wing joint and eat that immediately. Remove the legs and thighs. I like to take off the backbone and eat one of the oysters, the two succulent morsels of meat embedded here, and give the other to the person I'm cooking with. But I take the chicken butt for myself. I could never understand why my brothers always fought over that triangular tip—until one day I got the crispy, juicy fat myself. These are the cook's rewards. Cut the breast down the middle and serve it on the bone, with one wing joint still attached to each. The preparation is not meant to be superelegant. Slather the meat with fresh butter. Serve with mustard on the side and, if you wish, a simple green salad. You'll start using a knife and fork, but finish with your fingers, because it's so good.
+--------------------------------------------------
+
+Result 3
+Score: 0.46174926
+Source: FCS-L700146.md
+Chunk: 3.0
+Text: Basic Cooking Techniques
+Food may be cooked covered or uncovered. 6. Broiling is a dry-heat method of cooking that exposes food to direct, intense radiant heat from above. Broiling enables fat to drip away from the food. Grilling has similar results. 7. Roasting is a dry-heat method of cooking that exposes food to prolonged high heat in an oven. Use of a rack in the roasting pan allows the fat to drip out of the meat. Roasting may require basting to prevent food from drying out. 8. Grilling is a dry-heat method of outdoor cooking that exposes food to direct heat, enabling the fat to drip away. Before grilling, food items can be marinaded to add taste and texture. Foods selected for grilling must be inherently tender. As a healthier alternative, lemon juice and herbs can be substituted for barbecue sauce. - C. COMBINATION: Combination cooking is a method that incorporates both dryand moist-heat techniques. 1. Braising is a combination-heat method of cooking in which food is browned on the stovetop and then placed in an oven, with a small amount of liquid, to continue cooking. Braising is an excellent method for tenderizing cheaper and tougher cuts of meat. 2. Stewing is a combination-heat method of cooking that requires searing meat and vegetables, and then simmering the mixture slowly in a small amount of liquid.
+--------------------------------------------------
+
+Result 4
+Score: 0.42509556
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: Spicy Sweet-and-Sour Grilled Chicken
+Ingredients: ['1 cup water', '1/4 cup plus 2 tablespoons tomato paste (from a 6-ounce can)', '1 cup soy sauce', '1 cup distilled white vinegar', '3/4 cup sugar', '3/4 cup minced onion (about 1 medium)', '1/3 cup minced serrano or jalapeño chiles with seeds', '1/4 cup minced garlic (about 9 large cloves)', '6 large chicken drumsticks (about 1 1/2 pounds)', '6 large chicken thighs (about 2 pounds), trimmed of any excess fat and skin', 'Lime wedges for serving', 'Instant-read thermometer']
+Instructions: Stir together water and tomato paste in a 2 1/2- to 3-quart heavy saucepan until smooth, then stir in remaining sauce ingredients. Bring mixture to a boil, stirring, then reduce heat and briskly simmer, stirring occasionally, until sauce is reduced to 2 1/4 cups, 50 to 60 minutes. Stir frequently toward end of cooking to prevent sticking. Reserve 1 cup sauce for serving.
+Prepare grill for indirect-heat grilling over medium-hot charcoal (medium-high heat for gas grills; see Grilling Procedure ).
+Pat chicken dry (do not season with salt and pepper). Lightly oil grill rack and place chicken, skin side down, on area with no coals underneath (over turned-off burner if using gas). Grill, covered, turning once, until chicken registers 165°F, 22 to 25 minutes. (Chicken may appear pale; no cause for worry.)
+Brush generously all over with some of sauce, then move chicken directly over coals (turned-on burners if using gas). Grill chicken, covered, turning and moving to area with no coals or heat underneath if flare-ups occur, until browned, 3 to 5 minutes more. (Add more charcoal during grilling if necessary to maintain heat.)
+Serve chicken with reserved sauce.
+--------------------------------------------------
+
+Result 5
+Score: 0.424632
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: Flash-Fried Finger-Lickin' Chicken
+Ingredients: ['3 cups low-fat, low sodium chicken broth', 'Salt', '4 skinless, bone-in chicken thighs', '2 quarts grapeseed oil', '1 1/2 cups whole wheat flour', '1 tablespoon sweet paprika', '1 1/2 teaspoon celery salt', '1 tablespoon freshly ground black pepper', '2 cups low-fat buttermilk']
+Instructions: Heat the chicken broth in a medium sauce pot over high heat, seasoning it generously with salt. Add the chicken thighs to the pan and bring the broth to a simmer. Cover and reduce the heat to low. Simmer gently until the chicken is tender, about 40 minutes. Remove the thighs from the liquid, pat them dry, and set them aside on a platter, covered with foil to keep them warm.
+While the chicken is cooking, pour the grapeseed oil into a large pot with high sides, and bring it to 400˚F F high heat. Set a wire rack in a rimmed baking sheet or over several layers of paper towels (for draining the chicken). In a shallow dish, combine the flour with the paprika, celery salt, black pepper, 1 teaspoon salt, and the cayenne. Use a whisk to thoroughly combine the ingredients.
+Combine the warm chicken thighs with the buttermilk in a large bowl, coating them completely. Dredge the thighs in the seasoned flour. Then dip the thighs in the buttermilk and dredge them in the seasoned flour once more, to double coat the chicken. Shake off any excess flour.
+Fry the chicken, 2 pieces at a time, in the hot oil until deep golden brown, 30 seconds to 1 minute. Drain on the wire rack, and serve immediately.
+--------------------------------------------------
+
+Question: What temperature should I cook chicken to?
+Results found: 5
+
+Result 1
+Score: 0.64107
+Source: Cook to a Safe Minimum Internal Temperature - FoodSafety.gov.md
+Chunk: 1.0
+Text: Cook to a Safe Minimum Internal Temperature
+Image
+food thermometer in roasted chicken
+Follow the guidelines below for how to cook raw meat, poultry, seafood, and other foods to a safe minimum internal temperature. Always use a food thermometer to check whether meat has reached a safe minimum internal temperature that is hot enough to kill harmful germs that cause food poisoning. Some meats also need rest time after cooking. Rest time is important for certain meats because it allows the innermost parts and juices of the meats to become fully and safely cooked.
+--------------------------------------------------
+
+Result 2
+Score: 0.61785746
+Source: FoodSafety.gov — Safe Minimum Internal Temperatures.md
+Chunk: 3.0
+Text: Cook to a Safe Minimum Internal Temperature
+Safe Minimum Internal Temperature Chart for Cooking
+| - |
+| Beef, bison, veal, goat, and lamb, Type = Steaks, roasts, chops. Beef, bison, veal, goat, and lamb, Internal Temperature (°F/°C) = 145°F (63°C) **Rest time: 3 minutes**. Beef, bison, veal, goat, and lamb, Type = Ground meat and sausage. Beef, bison, veal, goat, and lamb, Internal Temperature (°F/°C) = 160°F (71°C). Casseroles, Type = Meat and meatless. Casseroles, Internal Temperature (°F/°C) = 165°F (74°C). Chicken, turkey, and other poultry, Type = All: whole bird, breasts, legs, thighs, wings, ground poultry, giblets, sausage, and [stuffing](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/stuffing-and-food-safety) inside poultry.. Chicken, turkey, and other poultry, Internal Temperature (°F/°C) = 165°F (74°C). Eggs, Type = Raw eggs. Eggs, Internal Temperature (°F/°C) = Cook until yolk and white are firm. Eggs, Type = Egg dishes (such as frittata, quiche). Eggs, Internal Temperature (°F/°C) = 160°F (71°C). Eggs, Type = Casseroles (containing meat and poultry). Eggs, Internal Temperature (°F/°C) = 165°F (74°C). Ham, Type = Raw ham. Ham, Internal Temperature (°F/°C) = 145°F (63°C) **Rest time: 3 minutes**. Ham, Type = Precooked ham (to reheat). Ham, Internal Temperature (°F/°C) = 165°F (74°C) **Note:** Reheat cooked hams packaged in USDA-inspected plants to 140°F (60°C). Leftovers, Type = Any type. Leftovers, Internal Temperature (°F/°C) = 165°F (74°C). Pork, Type = Steaks, roasts, chops. Pork, Internal | - |
+ Temperature (°F/°C) = 145°F (63°C) **Rest time: 3 minutes**.
+--------------------------------------------------
+
+Result 3
+Score: 0.6100124
+Source: Cook to a Safe Minimum Internal Temperature - FoodSafety.gov.md
+Chunk: 2.0
+Text: Cook to a Safe Minimum Internal Temperature
+Safe Minimum Internal Temperature Chart for Cooking
+[Print Food Temperature Chart or Download as PDF](/print/pdf/node/10?id=foo-bar-baz) | - |
+| Beef, bison, veal, goat, and lamb, Type = Steaks, roasts, chops. Beef, bison, veal, goat, and lamb, Internal Temperature (°F/°C) = 145°F (63°C) **Rest time: 3 minutes**. Beef, bison, veal, goat, and lamb, Type = Ground meat and sausage. Beef, bison, veal, goat, and lamb, Internal Temperature (°F/°C) = 160°F (71°C). Casseroles, Type = Meat and meatless. Casseroles, Internal Temperature (°F/°C) = 165°F (74°C). Chicken, turkey, and other poultry, Type = All: whole bird, breasts, legs, thighs, wings, ground poultry, giblets, sausage, and [stuffing](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/stuffing-and-food-safety) inside poultry. See USDA's [Turkey Thawing Calculator](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/happy-thanksgiving#Thawing_Calculator) and [Turkey Cooking Calculator](https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/poultry/happy-thanksgiving#Cooking_Calculator) .. Chicken, turkey, and other poultry, Internal Temperature (°F/°C) = 165°F (74°C). Eggs, Type = Raw eggs. Eggs, Internal Temperature (°F/°C) = Cook until yolk and white are firm. Eggs, Type = Egg dishes (such as frittata, quiche). Eggs, Internal Temperature (°F/°C) = 160°F (71°C). Eggs, Type = Casseroles (containing meat and poultry). Eggs, Internal Temperature (°F/°C) = 165°F (74°C). Ham, Type = Raw ham. Ham, Internal Temperature (°F/°C) = 145°F (63°C) **Rest time: 3 minutes**. Ham, | - |
+ Type = Precooked ham (to reheat). Ham, Internal Temperature (°F/°C) = 165°F (74°C) **Note:** Reheat cooked hams packaged in USDA-inspected plants to 140°F (60°C). Leftovers, Type = Any type. Leftovers, Internal Temperature (°F/°C) = 165°F (74°C).
+--------------------------------------------------
+
+Result 4
+Score: 0.57971996
+Source: Cook to a Safe Minimum Internal Temperature - FoodSafety.gov.md
+Chunk: 3.0
+Text: Cook to a Safe Minimum Internal Temperature
+Safe Minimum Internal Temperature Chart for Cooking
+Pork, Type = Steaks, roasts, chops. Pork, Internal Temperature (°F/°C) = 145°F (63°C) **Rest time: 3 minutes**. Pork, Type = Ground meat and sausage. Pork, Internal Temperature (°F/°C) = 160°F (71°C). Rabbit and venison, Type = Wild or farm-raised. Rabbit and venison, Internal Temperature (°F/°C) = 160°F (71°C). Seafood, Type = Fish (whole or filet), such as salmon, tuna, tilapia, pollock, bass, cod, catfish, trout, etc.. Seafood, Internal Temperature (°F/°C) = 145°F (63°C) or cook until flesh is no longer translucent and separates easily with a fork. Seafood, Type = Shrimp, lobster, crab, and scallops. Seafood, Internal Temperature (°F/°C) = Cook until flesh is pearly or white, and opaque. Seafood, Type = Clams, oysters, mussels. Seafood, Internal Temperature (°F/°C) = Cook until shells open during cooking |
+
+Date Last Reviewed
+November 21, 2024
+[Return to top](#logo)
+--------------------------------------------------
+
+Result 5
+Score: 0.5774354
+Source: FoodSafety.gov — Safe Minimum Internal Temperatures.md
+Chunk: 2.0
+Text: Cook to a Safe Minimum Internal Temperature
+Follow the guidelines below for how to cook raw meat, poultry, seafood, and other foods to a safe minimum internal temperature. Always use a food thermometer to check whether meat has reached a safe minimum internal temperature that is hot enough to kill harmful germs that cause food poisoning. Some meats also need rest time after cooking. Rest time is important for certain meats because it allows the innermost parts and juices of the meats to become fully and safely cooked.
+--------------------------------------------------
+
+Question: What can I use instead of buttermilk?
+Results found: 5
+
+Result 1
+Score: 0.6705177
+Source: Ingredient Substitutions Chart - Common & Uncommon Ingredients - The Old Farmer's Almanac.md
+Chunk: 10.0
+Text: Ultimate Ingredient Substitutions Guide: Cooking Without the Missing Items
+Frequently Asked Questions
+What can I use instead of buttermilk in a recipe?
+Combine 1 tablespoon lemon juice or vinegar with 1 cup milk and let it sit for 5 minutes. You can also use plain yogurt.
+--------------------------------------------------
+
+Result 2
+Score: 0.5330126
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: Homemade Buttermilk
+Ingredients: ['1/2 cup cultured buttermilk', '2 cups whole milk', '1/4 teaspoon kosher salt']
+Instructions: Here's how: In a mason jar, combine 1/2 cup cultured buttermilk (the supermarket stuff is okay here; it will act as a starter), 2 cups whole milk, and 1/4 teaspoon kosher salt. Cover and let stand in a warm place until the buttermilk thickens and coats the sides of the jar when tipped, 24-36 hours. Keep chilled for up to 2 weeks.
+--------------------------------------------------
+
+Result 3
+Score: 0.4885583
+Source: Food Network — Ingredient Substitution Guide.md
+Chunk: 3.0
+Text: Ingredient Substitution Guide
+Alternatively, for ½ cup breadcrumbs, grind 1 slice of bread in a food processor. **Brown Sugar (light and dark):**
+Turbinado or muscovado sugar. Alternatively, for 1 cup, combine 1 cup granulated sugar with 2 to 3 tablespoons molasses. (The resulting baked goods may be crunchier and sweeter.) **Butter:**
+All baking: Greek yogurt, applesauce or oil. Non-baking: Canola oil, vegetable oil, olive oil, coconut oil or ghee. **Buttermilk:**
+All baking: For 1 cup, combine 1 cup whole, low-fat or skim milk and 1 tablespoon lemon juice or white distilled or white wine vinegar. Non-baking such as mashed potatoes and salad or slaw dressings: Combine plain yogurt, sour cream or kefir with enough milk or water to create a pourable heavy-cream consistency. **Cake Flour:**
+For 1 cup, measure 1 cup all-purpose flour, remove 2 tablespoons and replace with 2 tablespoons cornstarch. **Cardamom (ground):**
+Ground cinnamon or half the amount of ground clove. **Cayenne Pepper:**
+Twice the amount of crushed red pepper flakes. **Cheddar:**
+Colby Jack cheese, Monterey Jack cheese, fontina or mozzarella. **Chevre (fresh goat cheese):**
+Cream cheese or mascarpone loosened with a little yogurt. **Chicken Broth:**
+Vegetable or beef broth. Alternatively, water seasoned with a little soy sauce, bouillon cubes or bouillon granules - or water by itself, if the recipe requires a cup or less. **Chili Powder:**
+For 1 tablespoon, combine 1 teaspoon paprika, 1 teaspoon ground cumin, ½ teaspoon onion powder, ½ teaspoon garlic powder and a pinch of cayenne (optional).
+--------------------------------------------------
+
+Result 4
+Score: 0.47439232
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: Homemade Butter and Buttermilk
+Ingredients: ['6 cups heavy cream, preferably organic', '1/4 teaspoon fine sea salt', 'Special equipment: 5-quart stand mixer (or larger)']
+Instructions: Transfer cream to bowl of 5-quart electric stand mixer fitted with whisk attachment. Tightly cover top of bowl and mixer with plastic wrap. Beat cream at moderately high speed until it holds soft peaks, 10 to 12 minutes. Increase speed to high and beat until mixture separates into thick, pale-yellow butter and thin, liquid buttermilk, about 5 minutes more.
+Strain mixture through colander into large bowl. Using hands, vigorously knead butter in colander, squeezing out remaining buttermilk, until dense and creamy, about 5 minutes.
+Transfer butter to large bowl, reserving buttermilk. Using hands, knead salt into butter. Roll into logs and wrap in plastic wrap or transfer to airtight container and refrigerate. (Butter will keep up to 1 week refrigerated or 1 month frozen.)
+Strain buttermilk through fine-mesh sieve, then cover and refrigerate up to 1 week.
+--------------------------------------------------
+
+Result 5
+Score: 0.4672006
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: Buttermilk Ice Cream
+Ingredients: ['2 cups heavy whipping cream', '8 large egg yolks', '1 cup sugar', '2 cups buttermilk', '1 cup crème fraîche*', '2 tablespoons fresh lemon juice', '1/4 teaspoon salt']
+Instructions: Bring cream to simmer in heavy medium saucepan. Whisk egg yolks and sugar in medium bowl to blend. Gradually whisk hot cream into yolk mixture. Return mixture to saucepan and stir constantly over medium-low heat until custard is thick enough to coat back of spoon, about 3 minutes (do not boil). Pour custard through fine strainer into clean bowl. Cool to room temperature. Whisk in buttermilk, creme fraiche, lemon juice, and salt. Chill custard until cold.
+Process custard in ice cream maker according to manufacturer's instructions. Transfer ice cream to containers; cover and freeze until firm, at least 4 hours. DO AHEAD: Ice cream can be made 3 days ahead. Keep frozen. Let soften slightly at room temperature before serving.
+*Sold at some supermarkets and at specialty foods stores.
+--------------------------------------------------
+
+Question: How many tablespoons are in a cup?
+Results found: 5
+
+Result 1
+Score: 0.4316733
+Source: 5-top_cooking_techniques.md
+Chunk: 9.0
+Text: Top Cooking Techniques Every Chef Should Know
+Basic Equivalents in Cooking:
+1 cup, Wet Ingredient Equivalents = 8 fluid ounces. 1 cup, Wet Ingredient Equivalents = 1/2 pint. 2 cups, Wet Ingredient Equivalents = 16 fluid ounces. 2 cups, Wet Ingredient Equivalents = 1 pint. 4 cups, Wet Ingredient Equivalents = 32 fluid ounces. 4 cups, Wet Ingredient Equivalents = 2 pints. 8 cups, Wet Ingredient Equivalents = 64 fluid ounces. 8 cups, Wet Ingredient Equivalents = 4 pints. 2 pints, Wet Ingredient Equivalents = 32 fluid ounces. 2 pints, Wet Ingredient Equivalents = 1 quart. 4 quarts, Wet Ingredient Equivalents = 128 fluid ounces. 4 quarts, Wet Ingredient Equivalents = 1 gallon
+1 tablespoon, Dry Ingredient Equivalents = 3 teaspoons. 1 tablespoon, Dry Ingredient Equivalents = 15 ml. 1/8 cup, Dry Ingredient Equivalents = 2 tablespoons. 1/8 cup, Dry Ingredient Equivalents = 30 ml. 1/4 cup, Dry Ingredient Equivalents = 4 tablespoons. 1/4 cup, Dry Ingredient Equivalents = 50 ml. 1/3 cup, Dry Ingredient Equivalents = 5-1/3 tablespoons. 1/3 cup, Dry Ingredient Equivalents = 75 ml. 1/2 cup, Dry Ingredient Equivalents = 8 tablespoons. 1/2 cup, Dry Ingredient Equivalents = 125 ml. 2/3 cup, Dry Ingredient Equivalents = 10-2/3 tablespoons. 2/3 cup, Dry Ingredient Equivalents = 150 ml. 3/4 cup, Dry Ingredient Equivalents = 12 tablespoons. 3/4 cup, Dry Ingredient Equivalents = 175 ml. 1 cup, Dry Ingredient Equivalents = 16 tablespoons. 1 cup, Dry Ingredient Equivalents = 250 ml
+[Article and tables from: http://busycooks.about.com/od/howtocook/a/howtomeasure.htm](http://busycooks.about.com/od/howtocook/a/howtomeasure.htm)
+--------------------------------------------------
+
+Result 2
+Score: 0.4183493
+Source: cooking-conversion-chart.md
+Chunk: 2.0
+Text: Cooking Conversion Chart
+Australian versus United States tablespoons
+Australia, 1 tablespoon = 20 mL. Australia, Teaspoons = 4 teaspoons. United States, 1 tablespoon = 15 mL. United States, Teaspoons = 3 teaspoons
+The image also states: 1 teaspoon = 5 mL; 1/2 teaspoon = 2.5 mL; 1/4 teaspoon = 1.25 mL. Check the recipe's country of origin. **Cup example:**
+1/4 cup = 3 Australian tablespoons or 4 US tablespoons (using the chart's rounded 60 mL quarter-cup).
+--------------------------------------------------
+
+Result 3
+Score: 0.39091423
+Source: Kitchen-Measurements.md
+Chunk: 7.0
+Text: Kitchen Measurements
+Liquid conversions as printed
+1 teaspoon, Other measures = —. 1 teaspoon, Milliliters shown = 5 mL. 1 tablespoon, Other measures = —. 1 tablespoon, Milliliters shown = 15 mL. 1/4 cup, Other measures = 4 tablespoons; 2 fluid ounces. 1/4 cup, Milliliters shown = 60 mL. 1/3 cup, Other measures = 5 1/3 tablespoons; 2 2/3 fluid ounces. 1/3 cup, Milliliters shown = 80 mL. 1 cup, Other measures = 16 tablespoons; 8 fluid ounces. 1 cup, Milliliters shown = 240 mL. 1 pint, Other measures = 2 cups; 16 fluid ounces. 1 pint, Milliliters shown = 480 mL. 1 quart, Other measures = 2 pints; 4 cups; 32 fluid ounces. 1 quart, Milliliters shown = 0.95 litres. 1 gallon, Other measures = 4 quarts; 8 pints; 16 cups; 128 fluid ounces. 1 gallon, Milliliters shown = 3.8 litres
+--------------------------------------------------
+
+Result 4
+Score: 0.32105306
+Source: cooking-conversion-chart.md
+Chunk: 3.0
+Text: Cooking Conversion Chart
+Cup measures as printed in the image
+1 cup, Milliliters = 250 mL. 1 cup, Fluid ounces shown = 8.75 fl oz. 3/4 cup, Milliliters = 180 mL. 3/4 cup, Fluid ounces shown = 6 fl oz. 1/2 cup, Milliliters = 125 mL. 1/2 cup, Fluid ounces shown = 4 fl oz. 1/3 cup, Milliliters = 80 mL. 1/3 cup, Fluid ounces shown = 3.5 fl oz. 1/4 cup, Milliliters = 60 mL. 1/4 cup, Fluid ounces shown = 2 fl oz
+The image states
+**1 litre = 4 cups**
+. **Caution:**
+Some entries in this infographic are internally inconsistent or approximate. For example, 3/4 of its 250 mL cup would be 187.5 mL, not 180 mL, and its fluid-ounce figures do not consistently match a single US/Australian system. Do not use this chart as an authoritative precision-conversion source.
+--------------------------------------------------
+
+Result 5
+Score: 0.3199867
+Source: Kitchen-Measurements.md
+Chunk: 2.0
+Text: Kitchen Measurements
+Ingredient weight conversions
+| - |
+| Flour, Volume = 1/4 cup. Flour, Ounces shown = 1 1/4 oz. Flour, Grams shown = 35 g. Flour, Volume = 1/3 cup. Flour, Ounces shown = 1 2/3 oz. Flour, Grams shown = 47 g. Flour, Volume = 1/2 cup. Flour, Ounces shown = 2 1/2 oz. Flour, Grams shown = 71 g. Flour, Volume = 2/3 cup. Flour, Ounces shown = 3 1/3 oz. Flour, Grams shown = 94 g. Flour, Volume = 3/4 cup. Flour, Ounces shown = 3 3/4 oz. Flour, Grams shown = 105 g. Flour, Volume = 1 cup. Flour, Ounces shown = 5 oz. Flour, Grams shown = 142 g. Sugar, Volume = 1/4 cup. Sugar, Ounces shown = 2 oz. Sugar, Grams shown = 57 g. Sugar, Volume = 1/3 cup. Sugar, Ounces shown = 2 2/3 oz. Sugar, Grams shown = 75 g. Sugar, Volume = 1/2 cup. Sugar, Ounces shown = 4 oz. Sugar, Grams shown = 115 g. Sugar, Volume = 2/3 cup. Sugar, Ounces shown = 5 1/3 oz. Sugar, Grams shown = 150 g. Sugar, Volume = 3/4 cup. Sugar, Ounces shown = 6 oz. Sugar, Grams shown = 170 g. Sugar, Volume = 1 cup. Sugar, Ounces shown = 8 oz. Sugar, Grams shown = 225 g. Butter, Volume = 1/4 cup.
+--------------------------------------------------
+
+Question: Why does my bread dough need to be kneaded?
+Results found: 5
+
+Result 1
+Score: 0.417898
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: No-Knead Bread
+Ingredients: ['3 cups (400 grams) bread flour', '1 1/4 teaspoons (8 grams) table salt', '1/4 teaspoon (1 gram) instant or other active dry yeast', '1 1/3 cups (300 grams) cool water (55 to 65 degrees F)', 'Wheat bran, cornmeal, or additional flour, for dusting', 'A 4 1/2- to 5 1/2-quart heavy pot']
+Instructions: 1. In a medium bowl, stir together the flour, salt, and yeast. Add the water and, using a wooden spoon or your hand, mix until you have a wet, sticky dough, about 30 seconds. Make sure it's really sticky to the touch; if it's not, mix in another tablespoon or two of water. Cover the bowl with a plate, tea towel, or plastic wrap and let sit at room temperature (about 72 degrees F), out of direct sunlight, until the surface is dotted with bubbles and the dough is more than doubled in size. This will take a minimum of 12 hours and (my preference) up to 18 hours. This slow rise—fermentation—is the key to flavor.
+2. When the first fermentation is complete, generously dust a work surface (a wooden or plastic cutting board is fine) with flour. Use a bowl scraper or rubber spatula to scrape the dough onto the board in one piece. When you begin to pull the dough away from the bowl, it will cling in long, thin strands (this is the developed gluten), and it will be quite loose and sticky—do not add more flour. Use lightly floured hands or a bowl scraper or spatula to lift the edges of the dough in toward the center. Nudge and tuck in the edges of the dough to make it round.
+3. Place a cotton or linen tea towel (not terry cloth, which tends to stick and may leave lint in the dough) or a large cloth napkin on your work surface and generously dust the cloth with wheat bran, cornmeal, or flour. Use your hands or a bowl scraper or wooden spatula to gently lift the dough onto the towel, so it is seam side down. If the dough is tacky, dust the top lightly with wheat bran, cornmeal, or flour. Fold the ends of the towel loosely over the dough to cover it and place it in a warm, draft-free spot to rise for 1 to 2 hours. The dough is ready when it is almost doubled. If you gently poke it with your finger, making an indentation about 1/4 inch deep, it should hold the impression. If it doesn't, let it rise for another 15 minutes.
+4. Half an hour before the end of the second rise, preheat the oven to 475 degrees F, with a rack in the lower third position, and place a covered 4 1/2–5 1/2 quart heavy pot in the center of the rack.
+5. Using pot holders, carefully remove the preheated pot from the oven and uncover it. Unfold the tea towel, lightly dust the dough with flour or bran, lift up the dough, either on the towel or in your hand, and quickly but gently invert it into the pot, seam side up. (Use caution—the pot will be very hot.) Cover the pot and bake for 30 minutes.
+6. Remove the lid and continue baking until the bread is a deep chestnut color but not burnt, 15 to 30 minutes more. Use a heatproof spatula or pot holders to carefully lift the bread out of the pot and place it on a rack to cool thoroughly. Don't slice or tear into it until it has cooled, which usually takes at least an hour.
+--------------------------------------------------
+
+Result 2
+Score: 0.39874184
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: Basic Sourdough Bread
+Ingredients: ['a heavy-duty mixer with dough hook attachment;', 'an 8-inch banneton or small colander lined with a towel;', 'a half sheet pan lined with a nonstick liner such as Silpain or parchment;', 'a baking stone OR baking sheet', 'sourdough starter: 1/3 cup (2 3/4 ounces or 75 grams)', '• for storing: scant 1/4 cup (1.75 ounces or 50 grams)', '• for this bread: 1 tablespoon plus 2 teaspoons (1 scant ounce or 25 grams)', 'bread flour: 1 1/3 cups, divided (7 ounces or 200 grams)', 'water, at room temperature (70 to 90°F): 1/2 cup minus 1 tablespoon, divided (3.5 ounces or 100 grams)', 'bread flour: 1 1/4 cups (7 ounce or 200 grams)', 'water, at room temperature (70 to 90°F): 2/3 liquid cup (5.5 ounces or 154 grams)', 'stiff sourdough starter (from above): 2/3 cup (5.25 ounces or 150 grams)', 'salt: 1 scant teaspsoon (scant 0.25 ounce or 6 grams)']
+Instructions: The day before baking, first thing in the morning, feed (expand) the sourdough starter. (It will be ready to use or to rest refrigerated overnight after about 14 hours.) Allow the starter to sit at room temperature (70° to 80&Deg;F) for 1 hour before feeding it.
+First, feed (refresh) and store some of the sourdough seed starter for future batches of bread (you will be increasing it by 2 1/2 times, from 50 grams to 125 grams):
+Begin by tearing off a scant 1/4 cup (1.75 ounces/50 grams) of the starter. It will be soft and stretchy. Place it in a small bowl.
+Add 1/3 cup (1.75 ounces/50 grams) of the flour and 1 tablespoon plus 2 teaspoons (1 scant ounce/25 grams) of the water. With a wooden spoon and then your hand, mix and knead together until all the flour is absorbed. The starter should be the consistency of a stiff biscuit dough. If after about 2 minutes of kneading there are still loose particles of flour, add water by the droplet. (Don't worry, too much water won't hurt it—but during fermentation and resting, the dough becomes softer, and it is easier to work with the starter when it is firm and not sticky, so you don't lose any on your fingers or the bowl.)
+Place this starter in a lightly oiled 1-cup storage container with a lid. Lightly oil the surface of the starter. Allow the starter to start to ferment at warm room temperature (75°to 80°F) before storing it in the refrigerator. If you are planning to bake more bread soon, you want the starter to ferment longer at room temperature so it will be more active sooner. If you are not planning to bake more bread for several days, you want to slow down the fermentation by refrigerating it sooner so that the yeast doesn't consume all the added flour.
+If baking bread the next day or the day after feeding the starter, refrigerate the starter after 2 hours at room temperature.
+If baking bread 3 days after feeding the starter, refrigerate the starter after 1 hour at room temperature.
+If baking bread 1 week after feeding the starter, refrigerate the starter after 30 minutes at room temperature.
+1. Give the starter the first feeding and allow it to ferment and rise (you will be increasing the starter by 4 times, from 25 grams to 100 grams). Tear off a scant 2 tablespoons (1 scant ounce/25 grams) of the sourdough starter (discard any remaining starter) and place it in a small bowl.
+Add 1/3 cup (1.75 ounces/50 grams) of the flour and 1 tablespoon plus 2 teaspoons (1 scant ounce/25 grams) of the water. With a wooden spoon and then your hand, mix and knead together until all the flour is absorbed. If after about 2 minutes of kneading there are still loose particles of flour, add water by the droplet. The starter should be a rough dough that is very stiff but holds together, with no loose flour particles. It will measure a rounded 1/3 cup and weigh 3.5 ounces/100 grams.
+Transfer the starter to an oiled 1-cup glass measure. Oil the top and press it down into the cup. It should measure about 1/3 cup in the glass measure. Cover the measuring cup tightly with greased plastic wrap and let rise (ideally at 75°to 80°F) until it has doubled, to 2/3 cup, 6 to 8 hours.
+2. Give the starter the second feeding and allow the yeast to ferment and rise (you will be increasing it by 4 times, from 50 grams to 200 grams). Tear off a scant 1/4 cup (1.75 ounces/50 grams) of the starter and discard the remainder. Tear the starter into a few pieces and place in a medium bowl. Add the remaining 2/3 cup (3.5 ounces/100 grams) flour and 3 1/2 tablespoons (1.75 ounces/50 grams) water. With a wooden spoon and then your hand, mix and knead together until all the flour is absorbed. If after about 2 minutes of kneading there are still loose particles of flour, add water by the droplet. The starter should be a rough dough that is very stiff but holds together, with no loose flour particles. You will have a full 3/4 cup (7 ounces/200 grams).
+Transfer the starter to an oiled 2-cup glass measure. Oil the top and press it down into the cup. It should measure about 3/4 cup in the glass measure. Cover the measuring cup tightly with greased plastic wrap and let rise (ideally at 75°to 80°F) until it has doubled, to 1 1/2 cups, about 6 hours. Refrigerate the starter if you are not ready to mix the dough—up to 20 hours.
+3. Mix the dough.
+Mixer Method If you have refrigerated the starter, remove it to room temperature 1 hour before mixing the dough.
+In the mixer bowl, place the flour. With the dough hook, on low speed (#2 if using a KitchenAid), gradually add the water until the flour is moistened enough to form a rough dough. Continue kneading on low speed for 3 minutes, enough to develop the gluten structure a little. Scrape down any bits of dough. Cover the bowl with plastic wrap and allow the dough to rest for 20 minutes.
+With oiled fingers, tear off 2/3 cup (5.25 ounces/150 grams) of the starter; discard the rest. Tear it into 4 pieces, roughly the same size. On low speed, knead it into the dough, about 2 minutes. Add the salt and continue kneading for 1 minute. Raise the speed to medium (#4 KitchenAid) and knead for 3 minutes. The dough will be barely tacky (sticky), smooth, and very elastic. If it is still very sticky, knead in a little flour. If it is not at all sticky, spray it with a little water and knead it. (The dough will measure about 2 cups and weigh about 17.7 ounces/502 grams.)
+Hand Method If it has been refrigerated, remove the starter to room temperature 1 hour before mixing the dough.
+With oiled fingers, tear off 2/3 cup (5.25 ounces/150 grams) of the starter; discard the rest. Tear it into 4 pieces, roughly the same size, and place it in a mixing bowl.
+With a wooden spoon, stir in the water, stirring for a few seconds to soften the starter, then add all but 2 tablespoons of the flour and the salt. Continuing with the wooden spoon or using your hand, mix until the flour is moistened. Knead the dough in the bowl until it comes together, then scrape it onto a lightly floured counter. Knead the dough for 5 minutes, enough to develop the gluten structure a little, adding as little of the reserved 2 tablespoons flour as possible to keep it from sticking. (To prevent sticking, it helps to use your fingertips, not the palms of your hands.) Use a bench scraper to scrape up the dough and gather it together as you knead it. At this point, it will be very sticky. Cover it with the inverted bowl and allow it to rest for 20 minutes. (This rest will make the dough less sticky and easier to work with.)
+Knead the dough for another 5 to 10 minutes or until it is very smooth and elastic. It should be barely tacky (sticky) to the touch. If the dough is still very sticky, add some or all of the remaining reserved flour or a little extra. (The dough will measure about 2 cups and weigh about 17.7 ounces/502 grams.)
+Both Methods 4. Let the dough rise. Using an oiled spatula or dough scraper, scrape the dough into a 4-cup glass measuring cup or 1-quart food storage container, lightly greased with cooking spray or oil. Press down the dough so you can get an accurate measure, and lightly spray or oil the top. It will come to 2 cups. Cover the measuring cup with plastic wrap; or cover the container with a lid and, with a piece of tape, mark the side of the container at approximately where double the height of the dough would be. Allow the dough to rise (ideally at 75°to 80°F) for 1 hour. It will only have risen a little.
+Scrape the dough onto a lightly floured counter. Gently push it down to deflate it, and stretch it into a rectangle (the exact size is not important). Give it 2 business letter turns. It will be soft and stretchy but a little firmer after each turn. Return the dough to the greased container and lightly spray or oil the top. Cover the container with a lid or plastic wrap and allow it to rise for another hour.
+Stretch the dough again, give it 2 business letter turns, and return it to the container. Grease the top, cover, and allow it to rise until doubled, to 4 cups (1 quart), 4 to 5 hours.
+5. Shape the dough and let it rise. Without deflating it, turn the dough out onto a floured counter and round it into a ball (see page 65). Set it in a floured banneton or a colander lined with a floured towel, seam side up. Pinch together the seam if it starts to pull apart. In the banneton, the dough will be about 2 inches from the top.
+Spray the dough with oil or sprinkle lightly with flour and cover it with a large container or plastic wrap. Let the dough rise ideally at (75deg;to 80°F.) until almost doubled, 3 to 4 hours. When it is pressed gently with a fingertip, the depression will very slowly fill in. In the banneton, the center of the dough will be 3/4 to 1 inch from the top.
+6. Preheat the oven. Preheat the oven to 475°F 1 hour before baking. Have an oven shelf at the lowest level and place an oven stone or baking sheet on it, and a cast-iron skillet or sheet pan on the floor of the oven, before preheating.
+7. Slash and bake the dough. Very gently invert the dough onto the prepared baking sheet. (If you are using a colander and the risen bread is more than 1 inch below the top, you will need to support the bread when inverting it so that it doesn't fall and deflate. Cut a cardboard circle small enough to fit into the colander and touch the surface of the bread. Place a piece of parchment on top of the bread, place the cardboard on top, and invert it onto the cardboard. Then slide the bread, still on the parchment, onto the baking sheet.) For a more evenly rounded bread, it's fine to leave the dough unslashed. If you like the rustic appearance of a slashed top crust, with sharp scissors, sharp knife, or a single-edged razor blade, slash a 1/4-inch-deep cross in the dough. Because the skin of the dough is very dry, it will be difficult to slash; use a gentle hand so as not to deflate the dough.
+Quickly but gently set the baking sheet on the hot baking stone or hot baking sheet. Toss 1/2 cup of ice cubes into the pan beneath and immediately shut the door. Bake for 5 minutes. Lower the oven to 450°F and continue baking for 10 minutes. With a heavy pancake turner, lift the bread from the pan and set it directly on the stone, turning it around as you do so for even baking. Continue baking for 10 to 15 minutes or until the crust is deeply burnished and a skewer inserted into the middle comes out clean (an instant-read thermometer inserted into the center will read about 212°F). For a very crisp crust, prop the open door slightly ajar for the last 5 minutes of baking.
+8. Cool the bread. Remove the bread from the oven, and transfer it to a wire rack to cool completely.
+Quicker Sourdough Bread (with added commercial yeast) If your schedule requires speeding up the process (by about 25 percent), or if you feel more secure with the added reliability of commercial yeast, you can add up to 0.06 percent of the total weight of the flour in this recipe (including the flour contained in the starter). The total weight is 300 grams; 0.06 percent of 300 grams is about 0.2 gram or about 1/16 teaspoon instant yeast. This should be added after the autolyse (the 20-minute rest before the final mixing). At this low a percentage, it will not affect the acidity or flavor of the sourdough, but if it were added at the beginning, the commercial yeast would likely be killed by the acidity of the sourdough starter.
+Basic Sourdough Bread with Extra Flavor and Keeping Quality If desired, you can replace 2 tablespoons (0.7 ounce/20 grams) of the bread flour with an equal measure or weight of whole wheat, kamut, or rye flour. (This is 6.5 percent of the total amount of flour in the recipe.)
+French Country Boule Reduce the bread flour in the dough to 3/4 cup plus 2 tablespoons (4.5 ounces/130 grams) and add 1/3 cup (1.5 ounces/40 grams) medium rye flour and 3 tablespoons (1 ounce/30 grams) whole wheat flour. Also add 1 tablespoon of water.
+In a very cold room, when yeast will take a long time to ferment, or a very warm one, when yeast will take a shorter time to ferment, you may want to adjust the amount of sourdough starter used in the dough.
+To reduce the amount of stiff sourdough starter from 30 percent to 20 percent: Reduce the starter to a rounded 1/3 cup (3.5 ounces/100 grams). To the rest of the dough, add 1 full tablespoon (about 1 ounce/16.6 grams) water and 3 1/2 tablespoons (1 full ounce/33.3 grams) flour.
+To increase the amount of stiff sourdough starter from 30 percent to 40 percent: Increase the starter to a full 3/4 cup (7 ounces/200 grams). From the rest of the dough, subtract 1 full tablespoon (about 1 ounce/16.6 grams) water and 3 1/2 tablespoons (1 full ounce/33.3 grams) flour.
+• If you need more starter-to make 2 loaves at once, for ­example—in Step 2, rather than discarding half, use the full 100 grams and increase it to 400 grams.
+Flour: 100% Water: 68% Dough Starter: 30% Salt: 2%
+--------------------------------------------------
+
+Result 3
+Score: 0.3878612
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: BA's Best Bread
+Ingredients: ['1/8 teaspoon active dry yeast', '117 g whole wheat flour (3/4 cup plus 2 tablespoons)', '75 g rye flour (2/3 cup)', '42 g all-purpose flour (6 tablespoons), preferably high protein (around 11%; such as King Arthur)', '103 g whole wheat flour (3/4 cup)', '412 g all-purpose flour (3 cups plus 1 tablespoons), preferably high protein (around 11%; such as King Arthur), plus more for dusting', '17 g kosher salt (2 tablespoons Diamond Crystal)', 'Rice flour or a 50/50 mix of all-purpose flour and cornstarch (for dusting)']
+Instructions: Combine yeast and 300 g (1 1/4 cups) room-temperature water in the bowl of a stand mixer. Take the temperature of your kitchen—between 72°F and 74°F is ideal for fermentation. If your kitchen is running hot, use cool water. If it’s a bit colder, use warm water. Add all the flours and mix with a wooden spoon until no dry spots remain. Cover with plastic wrap and let sit at room temperature until poolish is mature (surface will be very bubbly), 14–18 hours.
+Drop a pinch of poolish into a small bowl of room-temperature water. If it floats, it’s mature, and you’re good to go. If it sinks, wait 30 minutes and test again.
+Combine 300 g (1 1/4 cups) room-temperature water into poolish with a sturdy wooden spoon. Add whole wheat flour and 412 g (3 cups plus 1 Tbsp.) all-purpose flour and mix until no dry spots remain. Cover dough with plastic wrap and let sit 2 hours. (This ­process, called autolysis, starts to develop the all-important gluten, giving the dough structure and chew.)
+Evenly sprinkle salt over dough, then add 65 g (1/4 cup plus 1 tsp.) room-temperature water and mix with dough hook on medium-low speed. The dough should start to develop a shape and cling to hook after a minute or two. Increase speed to medium-high and mix until almost all the dough clings to hook and clears the sides of the bowl, 8–12 minutes. Cover with plastic wrap and let sit 15 minutes to let dough relax.
+Turn out dough on a clean surface. Holding a flexible bench scraper in one hand, quickly lift dough eye-level then slap it down on surface in one swift, deliberate motion. As you propel dough downward, let it fall off the ends of your hands and fold over onto itself; the dough will be sticky, but it will want to stick to itself more than your hands. Start slowly to avoid flying dough bits, then increase the intensity of your motion as the dough starts to firm up. Slap and fold 10–12 ­minutes, occasionally scraping bits of dough from surface with bench scraper. (If you’re not slightly winded by the time the dough is ready, you’re doing it wrong.) This important step builds gluten and strengthens the dough, which helps give the ­finished loaf a nice open crumb.
+Pinch off a small piece of dough and stretch it between your thumbs and index fingers on both hands. The dough should be able to stretch thin enough to let light through without breaking. If it splits or tears, the gluten is not yet developed enough. Continue slapping and folding another 2 minutes and test again.
+Place dough in a large clean bowl and cover with plastic wrap; let sit 30 minutes. Starting from one side, use a bench scraper to lift edge of dough, stretching it up and out of the bowl at least 12" and shaking back and forth to encourage lengthening, then fold back onto itself. Rotate the bowl 90°. Repeat stretching process 3 more times, rotating the bowl after each turn. Cover and rest another 30 minutes. Repeat process 2 more times, resting dough 30 minutes in between each full turn. (This rebuilds gluten and feeds the yeast during fermentation.) Cover dough with plastic wrap and let sit in a warm spot until nearly doubled in size, 30–60 minutes. Dough should look puffed and bubbly on the surface.
+To test if your dough is fermented, poke it with an oiled finger. The dough should spring back slowly but still hold a slight indentation.
+Turn out dough onto a lightly floured (use all-purpose) surface and do a final series of 4 folds, bringing edges into the center. Turn dough over, using bench scraper to help you, so seam side is down. Lightly dust with more flour and cover with a kitchen towel. Let rest until dough is puffed and surface is dotted with a few bubbles, 20–50 minutes.
+Line a 9" round colander with a clean kitchen towel and dust towel with an even layer of rice flour.
+Uncover dough and dust with a bit more all-purpose flour. Use bench scraper to push edges of dough toward the center to gather into a ball. Cup scraper and free hand around far side of dough and gently pull ball toward you, dragging dough several inches across work ­surface and rotating slightly. Repeat dragging motion several times, occasionally moving dough back to center of surface. The friction against the surface will help tighten the gluten over the dough, creating a smooth dome. Lightly flour top of dough, turn over with bench scraper, and quickly transfer, seam side up, to prepared colander; cover with ­plastic. Chill 1–2 days. The ­longer the bread sits, the more complex the flavor will be, but don’t chill longer or the yeast may die.
+Place an oven rack in lower third of oven and set a 3 1/2–5 1/2-qt. Dutch oven in center of rack. Set your oven as high as it will go (you want it between 450°F and 500°F). Let pot preheat at least 40 minutes. (If the handle on the lid is made of ­plastic, unscrew, remove, and plug hole with a small piece of foil.)
+Uncover dough and dust surface with rice flour. Cut a round of parchment paper so it’s slightly larger than dough; place over top. Remove pot from oven and set on stovetop.
+Working on stove next to Dutch oven, invert dough onto a plate (parchment side will be down). Use a lame or a razor blade taped to an ice-pop stick to slash dough in desired pattern, using swift and deliberate strokes to cut at least 1/2" deep into dough. Working quickly and wearing mitts on both hands, slide dough and parchment into center of pot. Cover pot and bake bread 15 minutes. Remove lid and ­continue to bake, rotating pot halfway through, until crust is very well done—approaching the edge of burnt—30–40 minutes. Carefully ­transfer bread to a wire rack. When it’s cool enough to handle, remove parchment.
+Resist the temptation to cut into that just-out-of-the-oven loaf. Trust us. You want to wait at least a couple of hours so the starches in the bread have time to set. This gives the bread a better texture. If you’re dead set on eating it warm, reheat part of the loaf in a 300°F oven (which will also revive the crust), then slice.
+--------------------------------------------------
+
+Result 4
+Score: 0.36754286
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: No-Knead Pizza Dough
+Ingredients: ['7 1/2 cups all-purpose flour (1000 grams) plus more for shaping dough', '4 teaspoons fine sea salt', '1/2 teaspoon active dry yeast']
+Instructions: Whisk flour, salt, and yeast in a medium bowl. While stirring with a wooden spoon, gradually add 3 cups water; stir until well incorporated. Mix dough gently with your hands to bring it together and form into a rough ball. Transfer to a large clean bowl. Cover with plastic wrap and let dough rise at room temperature (about 72°F) in a draft- free area until surface is covered with tiny bubbles and dough has more than doubled in size, about 18 hours (time will vary depending on the temperature in the room).
+Transfer dough to a floured work surface. Gently shape into a rough rectangle. Divide into 6 equal portions. Working with 1 portion at a time, gather 4 corners to center to create 4 folds. Turn seam side down and mold gently into a ball. Dust dough with flour; set aside on work surface or a floured baking sheet. Repeat with remaining portions.
+Let dough rest, covered with plastic wrap or a damp kitchen towel, until soft and pliable, about 1 hour. DO AHEAD: Can be made 3 days ahead. Wrap each dough ball separately in plastic wrap and chill. Unwrap and let rest at room temperature on a lightly floured work surface, covered with plastic wrap, for 2-3 hours before shaping.
+During the last hour of dough's resting, prepare oven: If using a pizza stone, arrange a rack in upper third of oven and place stone on rack; preheat oven to its hottest setting, 500°F-550°F, for 1 hour. If using a baking sheet, arrange a rack in middle of oven and preheat to its hottest setting, 500°F-550°F. (You do not need to preheat the baking sheet.)
+Working with 1 dough ball at a time, dust dough generously with flour and place on a floured work surface. Gently shape dough into a 10"-12" disk.
+When ready to bake, increase oven heat to broil. Sprinkle a pizza peel or rimless (or inverted rimmed) baking sheet lightly with flour. Place dough disk on prepared peel and top with desired toppings.
+Using small, quick back-and-forth movements, slide pizza from peel onto hot pizza stone. Broil pizza, rotating halfway, until bottom of crust is crisp and top is blistered, 5-7 minutes.
+Using peel, transfer to a work surface to slice. Repeat, allowing pizza stone to reheat under broiler for 5 minutes between pizzas.
+Arrange dough disk on baking sheet; top with desired toppings. Bake pizza until bottom of crust is crisp and top is blistered, about 10 minutes. Transfer to a work surface to slice. Repeat with remaining pizzas.
+--------------------------------------------------
+
+Result 5
+Score: 0.35646543
+Source: 13k-recipes.csv
+Chunk: 1.0
+Text: Recipe: Basic Soft White Sandwich Loaf
+Ingredients: ['unbleached all-purpose flour (use only Gold Medal, King Arthur, or Pillsbury): 2 1/4 cups plus 2 1/2 tablespoons (12 ounces or 341 grams)', 'water, at room temperature (70° to 90°F) : scant 1 3/4 liquid cups (14.3 ounces or 405 grams)', 'honey: 2 tablespoons plus 1 teaspoon (1.5 ounces or 45 grams)', 'instant yeast: 3/4 teaspoon (2.4 grams)', 'two 8 1/2-in-4 1/2-inch loaf pans, lightly greased with cooking spray or oil', 'a baking stone OR baking sheet', 'unbleached all-purpose flour (use only Gold Medal, King Arthur, or Pillsbury): 2 cups plus 3 tablespoons (about 11 ounces or 311 grams)', 'dry milk, preferably nonfat: 1/4 cup (1.5 or 40 grams)', 'instant yeast: 3/4 teaspoon (2.4 grams)', 'unsalted butter, softened: 9 tablespoons (4.5 ounces or 128 grams)', 'salt: 2 1/4 teaspoons (15 grams)', 'Optional: melted butter: 1 tablespoon (0.5 ounces or 14 grams)']
+Instructions: 1. Make the sponge. In a mixer bowl or other large bowl, combine the flour, water, honey, and instant yeast. Whisk until very smooth, to incorporate air, about 2 minutes. The sponge will be the consistency of a thick batter, Scrape down the sides of the bowl, and cover with plastic wrap.
+2. Make the flour mixture and add to the sponge. In a medium bowl, whisk together the flour (reserve 1/4 cup if mixing by hand), dry milk, and instant yeast. Sprinkle this on top of the sponge and cover tightly with plastic wrap. Allow it to ferment for 1 to 4 hours at room temperature. (During this time, the sponge will bubble through the flour blanket in places: this is fine.)
+3. Mix the dough.
+Mixer Method Add the butter to the bowl and mix with the dough hook on low speed (#2 if using a KitchenAid) for 1 minute or until the flour is moistened enough to form a rough dough. Scrape down any bits of dough. Cover the bowl with plastic wrap and allow the dough to rest for 20 minutes.
+Sprinkle on the salt and knead the dough on medium speed (#4 KitchenAid) for 7 to 10 minutes. It will not come away from the bowl until the last minute or so of kneading; it will be smooth and shiny and stick to your fingers. With an oiled spatula, scrape down any dough clinging to the sides of the bowl. If the dough is not stiff, knead in a little flour. If it is not at all sticky, spray it with a little water and knead it in. (The dough will weigh about 44.25 ounces/1258 grams.)
+Hand Method Add the salt and butter to the bowl and, with a wooden spoon or your hand, stir until all the flour is moistened. Knead the dough in the bowl until it comes together, then scrape it onto a lightly floured counter. Knead the dough for 5 minutes, enough to develop the gluten structure a little, adding as little of the reserved flour as possible to keep the dough from sticking. Use a bench scraper to scrape the dough and gather it together as you knead it. At this point, it will be very sticky. Cover it with the inverted bowl and allow it to rest for 20 minutes. (This resting time will make the dough less sticky and easier to work with.)
+Knead the dough for another 5 minutes or until it is very smooth and elastic. It should still be tacky (sticky) enough to cling slightly to your fingers a little. If the dough is still very sticky, however, add some of the remaining reserved flour, or a little extra. (The dough will weigh about 44.25 ounces/1258 grams.)
+Both Methods 4. Let the dough rise. Using an oiled spatula or dough scraper, scrape the dough into a 4-quart dough-rising container or bowl, lightly oiled with cooking spray or oil. Push down the dough and lightly spray or oil the surface. Cover the container with a lid or plastic wrap. With a piece of tape, mark the side of the container at approximately where double the height of the dough would be. Allow the dough to rise (ideally at 75°to 80°F) until doubled, 1 1/2 to 2 hours.
+Using an oiled spatula or dough scraper, scrape the dough onto a floured counter and press down on it gently to form a rectangle. It will be full of air and resilient. Try to maintain as many of the air bubbles as possible. Pull out and fold the dough over from all four sides into a tight package, or give it 2 business letter turns and set it back in the container. Again oil the surface, cover, and mark where double the height would now be. (It will fill the container fuller than before because it is puffier with air.) Allow the dough to rise for 1 to 2 hours or until it reaches the mark.
+5. Shape the dough and let it rise. Turn the dough out onto a lightly floured counter and cut it in half. Shape each piece into a loaf: begin by gently pressing the dough (or lightly rolling it with a rolling pin) into a wide rectangle; the exact size is not important at this point. (A long side of the dough should be facing toward you.) Dimple the dough with your fingertips to deflate any large bubbles. Fold over the right side of the dough to a little past the center. Fold over the left side of the dough to overlap it slightly. Press the center overlap section with the side of your hand to seal the dough. (If you have a lot of experience shaping, you may prefer at this point to rotate the dough 90 degrees-a quarter turn.) Starting at the top edge of the dough, roll it over three or four times, until it reaches the bottom edge of the dough: with each roll, press with your thumbs to seal it and at the same time push it away from you slightly to tighten the outer skin. As you roll and press, the dough will become wider. If it is not as long as the pan, place both hands close together on top of the dough and, rolling back and forth, gradually work your way toward the ends, gently stretching the dough. For the most even shape, it is important to keep a tight skin on the surface of the dough and not to tear it. If you want the edges of the loaf to be smooth, tuck the sides under.
+Place the loaves in the prepared loaf pans; the dough will be about 1/2 inch from the top of the pans. Cover them with a large container, or cover them loosely with oiled plastic wrap, and allow to rise until the center is about 1 inch above the sides of the pan, 1 1/2 to 2 hours. When the dough is pressed with a fingertip, the depression will very slowly fill in.
+6. Preheat the oven. Preheat the oven to 350°F 45 minutes before baking. Have an oven shelf at the lowest level and place a baking stone or baking sheet on it, and a cast-iron skillet or sheet pan on the floor of the oven, before preheating.
+7. Bake the bread. Quickly but gently set the pans on the hot baking stone or hot baking sheet. Toss 1/2 cup of ice cubes into the pan beneath and immediately shut the door. Bake for 50 minutes or until medium golden brown and a skewer inserted in the middle comes out clean (an instant-read thermometer inserted into the center will read about 210°F). Halfway through baking, turn the pans around for even baking.
+8. Glaze and cool the bread. Remove the bread from the oven and set it on a wire rack. Brush the top of the bread with the optional melted butter. Unmold and cool top side up on a wire rack until barely warm, about 1 hour.
+For the best flavor development, in Step 2, allow the sponge to ferment for 1 hour at room temperature and then refrigerate it for 8 to 24 hours. If using the hand mixing method, remove it from the refrigerator about 1 hour before mixing the dough.
+• If not using the dry milk, you can replace 1 cup of the water with 1 cup milk, preferably nonfat, scalded (brought to the boiling point) and cooled to lukewarm.
+A greater amount of sponge dough starter (pre-ferment) offers a fuller flavor in this "plain" bread, so almost 50 percent of total amount of flour is used in the sponge, compared to the usual 30 percent of hearth breads.
+If using liquid milk, it is scalded to deactivate the enzyme in it that could make the dough sticky.
+Baking the bread at too high a temperature, would result in too thin a crust, which would cause keyholing, or caving in at the sides of the loaf. Therefore, this bread is baked at 350°F. It is also important for the bread to be thoroughly baked so that the crust is firm enough to prevent it from compressing. The loaves should not be cut until completely cool for the same reason.
+Flour: 100% Water: 66.3% (includes the water in the butter and honey) Yeast: 0.74% Salt: 2.3% Butterfat: 15.9%
+--------------------------------------------------
+
+Question: How do I stop food from sticking to the pan?
+Results found: 5
+
+Result 1
+Score: 0.44627374
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 15.0
+Text: Procedure:
+2. Food items for sauté should be as DRY as possible before cooking. The combination of fat and water will create splattering, and the food will be steamed instead of sautéed. 3. Control the heat. The sauté pan should be hot enough to create conduction of heat into the item being cooked, but not so hot that the surface burns before the middle cooks. 4. Consider cutting larger items into smaller pieces for the intense heat of sauté so they cook more quickly and evenly. 5. Do not crowd foods in the sauté pan. Cook in batches if necessary. 6. Use pans without a non-stick surface to promote the development of fond, the basis to the flavor in your pan sauce. 7. Always match deglazing liquids to the flavor profile of the dish you're creating. 8. Stir-Fry is the Asian cousin of French sauté, using the same method in a Wok.
+--------------------------------------------------
+
+Result 2
+Score: 0.44315362
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 14.0
+Text: Procedure:
+1. Preheat sauté pan on the stove top until droplets of water boil and evaporate immediately. 2. Add a SMALL amount of fat to the pan, swirling the pan to cover the bottom. 3. Heat the fat to just below the smoke point. Observe the fat changing from perfectly smooth in the pan to streaky. This is the indicator of reaching the smoke point. 4. Add your food item to the pan, "show" side down. 5. If cut into pieces, toss to cook evenly. If one large piece use tongs to turn the item. 6. Turn the item when cooked 75% on the first side. (observe coagulation of proteins)
+7. Either remove the food item to a plate, or leave in the pan to create a sauce. 8. Add vegetables or aromatics to the pan, sautéing in the "fond" or pan drippings. 9. Deglaze the pan with a cold liquid, releasing the fond, and dropping the temperature of the pan. 10. Reduce the sauce to half its original volume. 11. Add condiments, flavorings, seasonings to the pan sauce. 12. If removed, return the food item to be cooked in a moist convective process. 13. Item is finished when it reaches the desired internal temperature. Tips:
+1. Pre-heat the pan. The most common mistake is starting sauté with a cold pan.
+--------------------------------------------------
+
+Result 3
+Score: 0.41540837
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 37.0
+Text: Procedure:
+1. Begin a sauté procedure by heating a large pan with straight sides and a lid on the stove top until drops of water boil and evaporate immediately. 2. Add a small amount of fat to the pan and swirl to cover the entire bottom of the pan, or coat your food item in fat before adding to the pan. 3. Heat the fat to a temperature just before the smoke point as with sauté. 4. Brown all sides of the food item to achieve caramelization of sugars. 5. Remove the food item and add any vegetables or aromatics to the pan for quick sauté. 6. Deglaze the pan with braising liquid chosen and reduce the volume by 1/3 by evaporation. 7. Return the food item to the pan and cover it. 8. The pan can remain on the stove top at a very low heat, or be place in the oven. 9. The item is finished when it reaches the desired internal temperature and desired texture. 10. The resulting pan liquid can be used directly as a sauce or thickened with a liaison.
+--------------------------------------------------
+
+Result 4
+Score: 0.4113941
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 12.0
+Text: Tips:
+1. Don't trust the temperature your oven tells you. Get an oven thermometer to be assured. 2. Use a pan appropriate for the item being cooked. Pans that are too small will affect the amount of heat reflected during the cooking process. 3. Basting is a myth! DO NOT open the oven door during the cooking process. "Syringing" drippings back to the top of the meat is useless when letting 100 degrees of temperature escape from the oven each time the door is opened. 4. Items that are roasted of baked will dry out considerably. Consider having a sauce ready. 5. Always let roasted or baked items rest after removing from the oven to allow for carryover cooking.
+--------------------------------------------------
+
+Result 5
+Score: 0.40186083
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 17.0
+Text: Procedure:
+1. Add a correct amount of fat to have your food item immersed 50%. This can be estimated, or by measuring the height of the food item and then the fat in the pan. 2. Heat the fat until convection begins, or a small crumb browns quickly. Use a temperature lower than you would with sauté. 3. Control the temperature of the fat with a thermometer. Fat that is too cold will allow the food item to absorb fat. Fat that is too hot will burn the outside before cooking inside. 4. The fat SHOULD NEVER SMOKE. 5. Add your food item in a motion AWAY FROM YOU, so you are not splashed with fat. 6. When the food is fully browned on one side, turn it over with tongs. Be careful not to puncture your breading and release moisture. 7. The item is finished when it reaches the desired internal temperature.
+--------------------------------------------------
+
+Question: What's the best way to cook vegetables without losing their nutrients?
+Results found: 5
+
+Result 1
+Score: 0.42473975
+Source: 30 Cooking Methods Every Home Cook Should Know Transcript.md
+Chunk: 17.0
+Text: 30 Cooking Methods Every Home Cook Should Know
+Boiling
+Boiling, the act of cooking something in seasoned water. And by seasoned, I just mean salt. There's two types of boiling though. As a general rule of thumb, there's with vegetables that are grown above ground, you start in boiling water. In vegetables that are grown below ground, you start them in cold water. And the reason being a potato which is grown under the ground is very dense. So you need to bring the temperature of the potato up with the water. That way you get a much  more even cook on your potato. So why would you boil something? Well, it's a really effective way to cook vegetables or anything quickly in lots of surrounding water. Now, I think a lot of people have a bad experience with boiled vegetables growing up and they often think they taste like farts. It's not true. They've just been boiled to an inch of their life. One of the key things that I think is different about home cooks and professional chefs is knowing when things are actually cooked and understanding, I should say, carryover cooking. These will keep cooking once you take them out of the water.
+--------------------------------------------------
+
+Result 2
+Score: 0.41040134
+Source: professional_cooking_06.md
+Chunk: 54.0
+Text: Vegetables
+Vegetables can benefit from sous vide techniques, especially those that discolor when exposed to air, such as artichokes. Vegetables are usually cooked at 185°F (85°C).
+--------------------------------------------------
+
+Result 3
+Score: 0.40908885
+Source: professional_cooking_06.md
+Chunk: 30.0
+Text: CONTROLLING HEAT ON THE STOVETOP
+After a liquid has come to a boil, keeping the pot covered can still be helpful. You have probably had the experience of removing the lid from a pot simmering over a low flame and seeing the bubbling slow down as soon as the lid is off. This is because so much heat escapes as soon as the cover is removed. By keeping the pot covered, you can maintain the desired cooking temperature using a lower burner setting. Although covering pots is a more efficient use of energy, sometimes you must keep them uncovered:
+- When evaporation is desired. In many cooking operations, one of the goals is to evaporate moisture to concentrate flavors or change textures. Keep the pot uncovered to speed evaporation. - When the contents must be visually monitored. In some cases, you must keep an eye on the food as it simmers or boils, if only to make sure it continues to simmer at the proper rate, not too fast or too slow. - When green vegetables are cooked. Plant acids that destroy green pigments must be allowed to escape, as explained on page 277.
+--------------------------------------------------
+
+Result 4
+Score: 0.3979377
+Source: professional_cooking_06.md
+Chunk: 19.0
+Text: Minerals, Vitamins, Pigments, and Flavor Components
+Minerals and vitamins are important to the nutritional quality of the food. Pigments and flavor components are important to a food's appearance and taste and may determine whether the food is appetizing enough to eat. So it is important to preserve all these elements. Some of these components are soluble in water, and others are soluble in fats. All of these components may be leached out, or dissolved away, from foods during cooking. Vitamins and pigments may also be destroyed by heat, by long cooking, and by other elements present during cooking. It is important, then, to select cooking methods that preserve, as much as possible, a food's nutrients, taste, and appearance. This is addressed whenever cooking techniques are explained in the remainder of this book.
+--------------------------------------------------
+
+Result 5
+Score: 0.395935
+Source: FCS-L700146.md
+Chunk: 7.0
+Text: Basic Cooking Techniques
+Both an air popper and a stove top popper can be used to make fresh popcorn quickly. Popcorn toppings can be added, as desired. 7. A spiralizer is a device that operates like a huge pencil sharpener to create noodle-like strands from vegetables (zucchini, apples, carrots, cucumbers, potatoes, etc.). Sometimes called "produce pasta," spiralized vegetables serve as an option to pasta, which is high in carbohydrates. The trend that started as a way to use garden zucchini and reduce carbs, has turned into a creative appliance for homes and restaurants. Vegetarian and vegan restaurant chefs use spiralizers to create healthy dishes. 8. A food steamer is an electric countertop appliance for home kitchens (or a piece of floor mounted equipment in a food service facility) that cooks food with steam heat in a closed device, or with steam heat under pressure. Because steamers cook without the addition of any extra fats or calories, they are a healthy method of cooking. Food steamers are convenient. They are more efficient than using a double boiler, a steamer insert, or a bamboo steamer. - B. GADGETS: Gadgets are mechanical or electrical hand-held devices that have a singular practical use. Some examples of gadgets are a lime squeezer, a herb mincer, a garlic press, etc. They are considered specific 'kitchen technology.' Because there are numerous gadget options, consumers must decide which single-use gadgets give the best value for the money.
+--------------------------------------------------
+
+Question: Why does meat turn brown when I cook it?
+Results found: 5
+
+Result 1
+Score: 0.60648626
+Source: professional_cooking_06.md
+Chunk: 15.0
+Text: Maillard Reaction
+Many protein foods, such as meats, contain small quantities of carbohydrate. When proteins are heated to about 310°F (154°C), the amino acids in the protein chains react with the carbohydrate molecules and undergo a complex chemical reaction. The result is that they turn brown and develop richer flavors. This reaction is called the Maillard reaction. It is what happens when meat browns. Because of the high temperature it requires, the Maillard reaction takes place only on the dry surface of the food. Because of its water content, the interior of the meat cannot get this hot.
+--------------------------------------------------
+
+Result 2
+Score: 0.59202254
+Source: ch05functionalpropertiesoffood.md
+Chunk: 40.0
+Text: Functional properties of food (Chapter 5)
+Oxidative browning of red meat
+Myoglobin and haemoglobin are the proteins that give red meat its bright red colour. Myoglobin also causes colour changes in meat. When myoglobin is exposed to the air (for example, when meat is left uncovered in the refrigerator or cold room), oxygen changes the iron present in myoglobin, and a new substance called oxymyoglobin is formed. The meat remains red for a short time, but the oxymyoglobin on the surface of the meat gradually turns into metmyoglobin, which is brown in colour. myoglobin (bright red) oxymyoglobin (red) metmyoglobin (brown)
+Despite the brown outer surface, the inside would still be red. High temperatures, freezing temperatures, ultraviolet light, certain metals and the presence of bacteria speed up this oxidative browning. Many people in Australia will not buy red meat that has turned even slightly brown because the meat has a stronger flavour when cooked. Supermarkets in Australia reduce the price of slightly brown meat, while people in other countries are prepared to pay more for it. To reduce oxidative browning, carefully wrap meat or remove oxygen from the package.
+--------------------------------------------------
+
+Result 3
+Score: 0.58916384
+Source: ch05functionalpropertiesoffood.md
+Chunk: 41.0
+Text: Functional properties of food (Chapter 5)
+Non-enzymic browning of red meat
+During non-enzymic browning, heat must be applied. (Oxygen is not involved as part of the reaction.) When the blood protein myoglobin in meat is heated, it denatures, changing the colour from pink to brown to grey. Because the outside of the meat experiences the heat first, the colour change happens from the outside to the inside. Thus meat can be quite brown on the outside (even black if the heat is high enough, as can happen on a barbecue) and pink on the inside. The colour change is complete when the internal temperature of the meat is 82 °C. At this temperature, all pinkness in the meat is gone, and the meat is described as being 'well done'.
+--------------------------------------------------
+
+Result 4
+Score: 0.538041
+Source: The Culinary Pro — Culinary Science.md
+Chunk: 31.0
+Text: Culinary Science Terminology
+Maillard Reaction
+When proteins are seared in a sauté pan or roasted in an oven, the surface browning is called a
+***Maillard reaction***
+, or Maillard browning, named after the French chemist, Louis Camille Maillard, who discovered it in 1912. As
+***amino acids***
+and
+***sugars***
+in the proteins are heated above 275°F/140°C, they caramelize and develop a savory or meaty flavor. Because the moisture in meats will inhibit this process, high temperatures are often used. However, if the temperature rises too high, over 400°F/200°C, the surface begins to burn, giving it an unpleasant bitter taste, and promoting the creation of
+***carcinogens***
+. Maillard Reaction is the Development of Flavor as well as Color during the Browning Process
+--------------------------------------------------
+
+Result 5
+Score: 0.51053834
+Source: ch05functionalpropertiesoffood.md
+Chunk: 42.0
+Text: Functional properties of food (Chapter 5)
+Maillard reaction
+The Maillard reaction takes place when dry heat is applied to a food that contains both a protein and a sugar. The formation of a dark yellow to brown crust on cooked food - such as roast meat, cakes, bread, custard, fried chips and ready-to-eat cereals - is a result of the Maillard reaction, and it is part of the overall appeal of these foods. The type of heat is important. Dry-heat cooking methods include baking, roasting, barbecuing, grilling and frying. Moist-heat methods of cooking (such as steaming, boiling and casseroling) and microwave cooking do not produce the Maillard reaction. The Maillard reaction also occurs when it is unwanted. The process of drying milk or eggs, for example, can produce the reaction; the product becomes slightly brown in colour and has an 'off' taste. If stored food containing both protein and sugar is allowed to heat above normal room temperature, the Maillard reaction can again cause undesirable colour changes. The higher the storage temperature is, the greater the reaction will be.
+--------------------------------------------------
+
+Question: What's the difference between baking and roasting?
+Results found: 5
+
+Result 1
+Score: 0.66413224
+Source: Chef Todd Mohr — Cooking Methods Manual.md
+Chunk: 10.0
+Text: Roasting and Baking
+WebCookingClasses Week 1, 24, 30, 31, 32, 33, 34, 45, 46 "Burn Your Recipes" Volume 2 and 3 Chef Todd's Holiday Cooking Success Course Roasting and baking are terms that are used interchangeably, but most often incorrectly. While both refer to a convective cooking process where food items are heated with dry air in an enclosed environment, Roasting is reserved for meats and poultry while Baking is reserved for fish, vegetables, fruits, breads or pastries. Heat is applied to the outside of food items and penetrates by conduction. The exterior of the food item dehydrates and then browns from caramelization.
+--------------------------------------------------
+
+Result 2
+Score: 0.6425092
+Source: professional_cooking_06.md
+Chunk: 35.0
+Text: Roast and Bake
+To roast and to bake both mean to cook foods by surrounding them with hot, dry air, usually in an oven. Cooking on a spit in front of an open fire may also be considered roasting. The term roasting usually applies to meats and poultry. The term baking usually applies to breads, pastries, vegetables, and fish. It is a more general term than roasting, although, in practice, there is little or no difference in actual technique, and the terms are often interchangeable (except for breads and pastries). Cooking uncovered is essential to roasting. Covering holds in steam, changing the process from dry-heat to moist-heat cooking, such as braising or steaming.
+--------------------------------------------------
+
+Result 3
+Score: 0.5286143
+Source: 30 Cooking Methods Every Home Cook Should Know Transcript.md
+Chunk: 5.0
+Text: 30 Cooking Methods Every Home Cook Should Know
+Baking
+Baking very similar to roasting but technically although I don't think it's actually that relevant anymore, it's done at a lower temperature. But when you hear the word baking, it's usually referring to pastries, sweets, and cakes. It's a confined space held at a constant temperature. Now, usually in modern ovens these days, there's a fan. All the fan does is help regulate the heat so you don't get any hot spots.
+--------------------------------------------------
+
+Result 4
+Score: 0.3717542
+Source: professional_cooking_06.md
+Chunk: 62.0
+Text: SUMMARY OF COOKING TERMS
+The following is an alphabetical list of terms that describe ways of applying heat to foods. Basic cooking methods described earlier are included, as are more specific applications of these basic methods. bake. To cook foods by surrounding them with hot, dry air. Similar to roast, but the term bake usually applies to breads, pastries, vegetables, and fish. barbecue. (1) To cook with dry heat created by the burning of hardwood or by the hot coals of this wood. (2) Loosely, to cook over hot coals, such as on a grill or spit, often with a seasoned marinade or basting sauce. blanch. To cook an item partially and very briefly in boiling water or in hot fat. Usually a prepreparation technique, as to loosen peels of vegetables, fruits, and nuts, to partially cook French fries or other foods before service, to prepare for freezing, or to remove undesirable flavors. boil. To cook in water or other liquid that is bubbling rapidly, about 212°F (100°C) at sea level and at normal pressure. braise. (1) To cook covered in a small amount of liquid, usually after preliminary browning. (2) To cook certain vegetables slowly in a small amount of liquid without preliminary browning. broil. To cook with radiant heat from above. deep-fry. To cook submerged in hot fat. deglaze. To swirl a liquid in a sauté pan, roast pan, or other pan to dissolve cooked particles of food remaining on the bottom.
+--------------------------------------------------
+
+Result 5
+Score: 0.36993062
+Source: 30 Cooking Methods Every Home Cook Should Know Transcript.md
+Chunk: 8.0
+Text: 30 Cooking Methods Every Home Cook Should Know
+Toasting
+Toasting dry heat from either one side or both sides like you get in a toaster, but you can also toast in a dry pan. If you want to put a piece of bread in a dry pan, it's going to toast on one side. And it's probably going to toast a little bit faster. You can also toast over an open flame. Let me know what level of toast you are. And yes, there is only one right answer. I'd say the biggest difference about toasting is never fat involved. It's a dry heat on a dry piece of whatever you're toasting, whether that's bread, spices, or nuts.
+--------------------------------------------------

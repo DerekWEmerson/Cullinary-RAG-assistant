@@ -1,0 +1,9 @@
+# RAG assistant
+openai
+pinecone
+requests
+python-dotenv
+
+# Document processing and chunking
+docling
+nltk
