@@ -185,7 +185,7 @@ The tree shows the **intended repository organization**. Generated files and sou
 
 ## Future improvements
 
-Potential extensions include a web interface, automated retrieval and answer-quality metrics, improved recipe-versus-reference ranking, configurable retrieval settings, and broader evaluation coverage.
+Potential extensions include a web interface, automated retrieval and answer-quality metrics, better automated cleaning using LLMs, improved recipe-versus-reference ranking, configurable retrieval settings, and broader evaluation coverage.
 
 ## Project status
 
